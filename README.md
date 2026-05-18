@@ -1,7 +1,10 @@
 # 🏏 IPL Meme League — Powered by Google AI
 
+
 > **A real-time second-screen engagement platform for IPL live match viewers.**  
 > Built for Google Hackathon 2026 by [@iamatul369](https://github.com/iamatul369)
+>
+> **Play Now:-** https://google-apl-1-467164567281.asia-south2.run.app/leaderboard
 
 [![React](https://img.shields.io/badge/React-18-61dafb?logo=react)](https://react.dev/)
 [![Vite](https://img.shields.io/badge/Vite-5-646cff?logo=vite)](https://vitejs.dev/)
