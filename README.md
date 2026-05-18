@@ -19,6 +19,8 @@ Cricket fans who watch IPL live matches passively lose engagement during breaks,
 
 ---
 
+**Pro Tip :- Refresh the App to start the game again and vibe on the OG IPL sound**
+
 ## 💡 Product Vision
 
 A **dopamine-driven**, **real-time social engagement layer** on top of IPL live streaming — where fans:
