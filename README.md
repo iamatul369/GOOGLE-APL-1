@@ -5,6 +5,8 @@
 > Built for Google Hackathon 2026 by [@iamatul369](https://github.com/iamatul369)
 >
 > **Play Now:-** https://google-apl-1-467164567281.asia-south2.run.app/leaderboard
+> 
+> **Pro Tip :- Refresh the App to start the game again and press any key(Laptop) or touch the screen(Mobile) to Vibe on the OG IPL sound**
 
 [![React](https://img.shields.io/badge/React-18-61dafb?logo=react)](https://react.dev/)
 [![Vite](https://img.shields.io/badge/Vite-5-646cff?logo=vite)](https://vitejs.dev/)
@@ -21,8 +23,6 @@ Cricket fans who watch IPL live matches passively lose engagement during breaks,
 **IPL Meme League** transforms passive viewers into active creators by letting them share reactions, memes, and short clips in real-time during a live match — making every ball, boundary, and wicket a moment worth celebrating!
 
 ---
-
-**Pro Tip :- Refresh the App to start the game again and vibe on the OG IPL sound**
 
 ## 💡 Product Vision
 
